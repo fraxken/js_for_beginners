@@ -1,17 +1,17 @@
-/*
- * EXO14:
+/**
+ * @namespace EXO14
  * 
- * Introduction:
- * Filter les données d'un tableau d'Objets et additionner les valeurs.
+ * @desc
+ * Filter les données d'un tableau d'Objets et additionner toutes les propriétés "value".
  * 
- * Documentation pour bien débuter/comprendre l'exercice:
+ * @tutorial (documentation)
  * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/filter
  * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/map
  * 
- * Objectif de l'exercice (Consignes à suivre):
- * 1. Filtrer le tableau "payload" par la propriété "active" true à l'aide d'Array.filter
+ * @todo (Consignes de l'exercice)
+ * 1. Filtrer le tableau "payload" par la propriété "active" égal à true à l'aide de la méthode filter
  * 2. Additionner la propriété "value" du résultat précédemment filtré.
- * 3. Afficher la valeur total dans la console.
+ * 3. Afficher la valeur total des "value" dans la console.
  */
 
 const payload = [

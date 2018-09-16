@@ -1,20 +1,28 @@
-/*
- * EXO07:
+/**
+ * @namespace EXO07:
  * 
- * Introduction:
- * Afficher et modifier les clés d'un Objet.
+ * @desc
+ * Afficher et modifier les clés d'un Objet JavaScript.
  * 
- * Documentation pour bien débuter/comprendre l'exercice:
+ * @tutorial (documentation)
  * - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
- * - https://www.w3schools.com/js/js_objects.asp
+ * - http://exploringjs.com/impatient-js/ch_single-objects.html
  * 
- * Objectif de l'exercice (Consignes à suivre):
+ * @todo (Consignes de l'exercice)
  * 1. Afficher dans la console la valeur de la propriété "foo" de l'objet "monObjet".
- * 2. Modifier la valeur de la propriété "message" pour "hello world".
- * 3. Afficher dans la console la "nouvelle" valeur de la propriété "message" de l'objet "monObjet"
+ * 2. Modifier la valeur de la propriété "message" pour la chaine de caractères "hello world".
+ * 3. Afficher dans la console la valeur de la propriété "message" de l'objet "monObjet"
  * 4. Affiche la valeur de la propriété "str" de "monObjet" en utilisant la variable "myVar".
+ * 
+ * @example
+ * const jane = {
+ *     first: "Jane",
+ *     last: "Doe"
+ * }
+ * console.log(`${jane.first} ${jane["last"]}`);
  */
 
+// --> Ne modifiez pas la déclaration de "myVar" et "monObjet"
 const myVar = "str";
 const monObjet = {
     foo: "bar",
@@ -22,4 +30,4 @@ const monObjet = {
     str: "wahou!"
 };
 
-// --> Code à partir d'ici!
+// --> Code ici en suivant les consignes de l'exercice ci-dessus !

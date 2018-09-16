@@ -1,18 +1,26 @@
+// Ont récupère la function strictEqual du module "assert" de NodeJS.
 const { strictEqual } = require("assert");
 
-/*
- * EXO13:
+/**
+ * @namespace EXO13
  * 
- * Introduction:
- * Apprendre à créer un Objet avec une Fonction et l'opérateur "new"
+ * @desc
+ * Apprendre à créer un objet (prototype) avec une fonction et l'opérateur "new".
  * 
- * Documentation pour bien débuter/comprendre l'exercice:
+ * @tutorial (documentation)
  * - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
  * - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
  * 
- * Objectif de l'exercice (Consignes à suivre):
- * - Compléter la fonction "Utilisateur" pour créer un Objet comforme aux tests.
- * - Un utilisateur peut avoir un "nom" et un "age".
+ * @todo (Consignes de l'exercice)
+ * 1. Compléter la fonction "Utilisateur" pour créer un Objet comforme aux tests.
+ * 1bis. Un utilisateur doit avoir un "nom" et un "age".
+ * 3. Votre programme doit s'exécuter sans erreur.
+ * 
+ * @see
+ * Il est courant en JavaScript moderne de passer par une "Classe" pour répondre à ce même besoin:
+ * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Classes
+ * 
+ * Essayez de remplacer la function "Utilisateur" par une Classe Utilisateur !
  */
 
 // --> Complète la fonction

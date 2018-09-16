@@ -1,21 +1,21 @@
-/*
- * EXO03:
+/**
+ * @namespace EXO03
  * 
- * Introduction:
+ * @desc
  * Amusez-vous avec les méthodes JavaScript d'une chaine de caractères (string).
  * 
- * Documentation pour bien débuter/comprendre l'exercice:
+ * @tutorial (documentation)
  * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String
- * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/split
  * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/trim
+ * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/split
  * 
- * Objectif de l'exercice (Consignes à suivre):
- * 1. Supprimer les espaces vide au début et à la fin de la chaîne de caractères "joueAvecMoi".
+ * @todo (Consignes de l'exercice)
+ * 1. Supprimer les espaces vides au début et à la fin de la chaîne de caractères "joueAvecMoi".
  * 2. Séparer la chaîne en deux (avec l'espace vide centrale).
  * 3. Afficher le tableau retourné par la méthode .split() dans la console.
  * 
- * Note:
- * Expérimenter les autres méthodes d'une String, par exemple:
+ * @see
+ * Prener le temps d'expérimenter les autres méthodes d'une String:
  * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/slice
  * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/charAt
  * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/repeat
