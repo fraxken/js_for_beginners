@@ -15,3 +15,5 @@
 
 const randomVar = Math.random() > 0.5 ? "hello": 5;
 console.log(typeof randomVar);
+
+// --> Code à partir d'ici!
