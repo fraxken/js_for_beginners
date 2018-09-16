@@ -9,6 +9,7 @@ const { strictEqual } = require("assert");
  * 
  * @tutorial (documentation)
  * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/L_op%C3%A9rateur_this
+ * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Function/name#Notation_raccourcie_pour_les_m%C3%A9thodes
  * 
  * @todo (Consignes de l'exercice)
  * 1. Compléter la function "addOne" pour que l'assertion de fin soi vraie.
