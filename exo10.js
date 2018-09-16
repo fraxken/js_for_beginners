@@ -31,3 +31,5 @@ strictEqual(add(10, 10), null);
 strictEqual(add(5, -5), null);
 strictEqual(add(-10, -5), null);
 strictEqual(functionByzarre(10, 5), null);
+console.log("Bravo tu as réussi !");
+

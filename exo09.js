@@ -27,3 +27,4 @@ strictEqual(typeof null, null);
 // Etape 2 (avec instanceof)
 strictEqual({} instanceof Object, null);
 strictEqual([] instanceof Array, null);
+console.log("Bravo tu as réussi !");

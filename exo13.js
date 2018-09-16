@@ -36,3 +36,4 @@ strictEqual(thomas.nom, "thomas");
 strictEqual(thomas.age, 23);
 strictEqual(alex.nom, "alex");
 strictEqual(alex.age, 24);
+console.log("Bravo tu as réussi !");

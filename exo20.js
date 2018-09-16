@@ -23,3 +23,4 @@ strictEqual(5 === 5, null);
 strictEqual(10 > 20, null);
 strictEqual(10 >= 10, null);
 strictEqual({} == {}, null);
+console.log("Bravo tu as réussi !");

@@ -36,3 +36,4 @@ let direBonjour2;
 // --> Les tests suivants doivent fonctionner:
 strictEqual(direBonjour2("alex"), "bonjour alex");
 strictEqual(direBonjour2("irvin"), "bonjour irvin");
+console.log("Bravo tu as réussi !");

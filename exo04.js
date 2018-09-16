@@ -35,4 +35,5 @@ for (let i = 0; i<10; i++) {
  */
 console.log(`valeurInitial est égal à => ${valeurInitiale}`);
 strictEqual(valeurInitiale, 1024);
+console.log("Bravo tu as réussi !");
 
