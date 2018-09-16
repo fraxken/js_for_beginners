@@ -14,7 +14,7 @@ const { strictEqual } = require("assert");
  * @todo (Consignes de l'exercice)
  * 1. Compléter la fonction "Utilisateur" pour créer un Objet comforme aux tests.
  * 1bis. Un utilisateur doit avoir un "nom" et un "age".
- * 3. Votre programme doit s'exécuter sans erreur.
+ * 2. Votre programme doit s'exécuter sans erreur.
  * 
  * @see
  * Il est courant en JavaScript moderne de passer par une "Classe" pour répondre à ce même besoin:
