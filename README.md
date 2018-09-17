@@ -1,23 +1,39 @@
 # js_for_beginners
-JavaScript exercices for Beginner
+Exercices JavaScript pour débutant n'ayant pas eu d'expérience avec du développement.
 
 # Pré-requis
 
-- Installer Node.JS
+- Installer Node.JS (Dernière version de préférence).
 - Installer un éditeur de code (Visual Studio Code par exemple).
 - Installer GIT.
 
 Il vous suffira de cloner le dépôt sur vôtre ordinateur avec GIT:
 
-```
+```bash
 git clone https://github.com/fraxken/js_for_beginners.git
 cd js_for_beginners
+```
+
+pour exécuter un exercice, rien de plus simple
+```bash
 node exo01.js
 ```
 
-# Comment bien apprendre
+## Structure des exercices
 
-Je vous recommande fortement de prendre le temps de lire l'intégralité des documentations qui sont présentes au travers des exercices. Ses documentations là pour vous guider dans votre apprentissage de Javascript. N'hésitez pas à sortir du cadre des exercices pour expérimenter le code et les méthodes par vous-même.
+Chaque exercice est structuré à l'aide d'une en-tête en commentaire comportant plusieurs sections:
+
+- namespace (le nom de l'exercice).
+- desc (la description de l'exercice).
+- tutorial (les liens et ressources nécessaire à la compréhension/résolution de l'exercice).
+- todo (les règles à respecter pour réaliser correctement l'exercice).
+- see (des informations complémentaire ou bonus).
+
+N'hésitez pas à sortir du cadre de l'exercice pour expérimenter plus amplement les méthodes de vous même !
+
+## Comment bien apprendre
+
+Je vous recommande fortement de prendre le temps de lire l'intégralité des documentations qui sont présentes au travers des exercices. Ses documentations sont là pour vous guider dans votre apprentissage de Javascript.
 
 Ressources complémentaire (livre gratuit en ligne):
 - http://exploringjs.com/impatient-js/toc.html
