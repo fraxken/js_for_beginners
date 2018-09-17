@@ -12,6 +12,10 @@ const { strictEqual } = require("assert");
  * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/instanceof
  * - http://exploringjs.com/impatient-js/ch_values.html#whats-a-type
  * 
+ * @example
+ * console.log(typeof "yop"); // string
+ * console.log([] instanceof Object); // false
+ * 
  * @todo (Consignes de l'exercice)
  * 1. Compléter les tests (assertions) en remplaçant "null" par la bonne valeur !
  * 2. Votre programme doit s'exécuter sans erreur.
