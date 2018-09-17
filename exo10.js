@@ -1,11 +1,11 @@
-// Ont récupère la function strictEqual du module "assert" de NodeJS.
+// On récupère la function strictEqual du module "assert" de NodeJS.
 const { strictEqual } = require("assert");
 
 /**
  * @namespace EXO10
  * 
  * @desc
- * Découverte des functions.
+ * Découverte et compréhension du rôle d'une fonction.
  * 
  * @tutorial (documentation)
  * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Instructions/function

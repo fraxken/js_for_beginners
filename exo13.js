@@ -1,4 +1,4 @@
-// Ont récupère la function strictEqual du module "assert" de NodeJS.
+// On récupère la function strictEqual du module "assert" de NodeJS.
 const { strictEqual } = require("assert");
 
 /**
