@@ -1,6 +1,3 @@
-// Ont récupère la function strictEqual du module "assert" de NodeJS.
-const { strictEqual } = require("assert");
-
 /**
  * @namespace EXO23
  * 
