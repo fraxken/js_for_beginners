@@ -1,4 +1,4 @@
-// Ont récupère la function strictEqual du module "assert" de NodeJS.
+// On récupère la function strictEqual du module "assert" de NodeJS.
 const { strictEqual } = require("assert");
 
 /**
@@ -15,10 +15,10 @@ const { strictEqual } = require("assert");
  * @todo (Consignes de l'exercice)
  * 1. Ne modifiez aucun code en dehors de la ligne 19 (Vous pouvez donc travailler dans la boucle for uniquement).
  * 2. À chaque itération de la boucle, multiplie la valeur de la variable "valeur Initiale" par deux.
- * 3. Le programme de doit pas déclencher d'erreur à l'exécution.
+ * 3. Le programme ne doit pas déclencher d'erreur à l'exécution.
  * 
  * @see
- * Il existe plusieurs types de boucle (While, do While, for..of etc..). Prenez donc le temps de faire un tour sur les documentations ci-dessous:
+ * Il existe plusieurs types de boucle (While, do While, for..of etc..). Prenez donc le temps de faire un tour sur les documentations ci-dessous :
  * 
  * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Instructions/for...of
  * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Instructions/while
@@ -31,7 +31,8 @@ for (let i = 0; i<10; i++) {
 }
 
 /**
- * Le code ci-dessous permet d'afficher le résultat, puis de vérifier que le résultat est bien égal à 1024.
+ * Le code ci-dessous permet d'afficher le résultat, puis de vérifier que le résultat est bien égal à la valeur 1024.
+ * (NE PAS MODIFIER LE CODE CI-DESSUS)
  */
 console.log(`valeurInitial est égal à => ${valeurInitiale}`);
 strictEqual(valeurInitiale, 1024);

@@ -20,4 +20,4 @@
 const prenoms = ["Thomas", "Alexandre", "Irvin", "Jonathan"];
 console.log(`Taille du tableau prenoms: ${prenoms.length}`);
 
-// --> Affiche les prénoms du tableau "prenoms" un à un en utilisant une boucle ci-dessous
+// --> Affichez les prénoms du tableau "prenoms" un à un en utilisant une boucle ci-dessous

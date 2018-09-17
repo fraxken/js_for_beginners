@@ -10,8 +10,8 @@
  * - https://developer.mozilla.org/fr/docs/Glossaire/Primitive
  * 
  * @todo (Consignes de l'exercice)
- * 1. Créez une variable qui aura pour nom "myVar" et initialisez la avec une valeur de 10.
- * 2. Créez une variable qui aura pour nom "myVar2" et qui sera initialisée à la valeur de "myVar" multiplié par 5 (myVar * 5)
+ * 1. Créez une variable qui aura le nom "myVar" et initialisez la avec une valeur de 10.
+ * 2. Créez une variable qui aura le nom "myVar2" et qui sera initialisée à la valeur de "myVar" multiplié par 5 (myVar * 5)
  * 3. Affichez dans le terminal la valeur de "myVar2" (avec la méthode console.log)
  * 
  * @example
