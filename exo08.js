@@ -13,6 +13,12 @@
  * A. Afficher le message "wahouuuu!" si la valeur de "valeurRandom" est vraie (true).
  * B. Afficher le message "mer il est fou!" si la valeur de "valeurRandom" est fausse (false).
  * 
+ * @example
+ * const uneValeur = 5;
+ * if (uneValeur === 5) {
+ *     console.log("la variable uneValeur est égal à 5");
+ * }
+ * 
  * @see
  * Il est aussi possible de développer une solution plus "courte" avec les "ternaires". Essayez donc !
  * - https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/L_op%C3%A9rateur_conditionnel
