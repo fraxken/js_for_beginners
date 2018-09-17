@@ -17,6 +17,10 @@ const { strictEqual } = require("assert");
  * 2. À chaque itération de la boucle, multiplie la valeur de la variable "valeur Initiale" par deux.
  * 3. Le programme ne doit pas déclencher d'erreur à l'exécution.
  * 
+ * @example
+ * let a = 1;
+ * console.log(a * 2); // 2
+ * 
  * @see
  * Il existe plusieurs types de boucle (While, do While, for..of etc..). Prenez donc le temps de faire un tour sur les documentations ci-dessous :
  * 
